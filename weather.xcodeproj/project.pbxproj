@@ -37,7 +37,6 @@
 		FE244AAC2889754F001930B1 = {
 			isa = PBXGroup;
 			children = (
-				FE244AC62889853D001930B1 /* WeatherButton.swift */,
 				FE244AB72889754F001930B1 /* weather */,
 				FE244AB62889754F001930B1 /* Products */,
 			);
@@ -54,6 +53,7 @@
 		FE244AB72889754F001930B1 /* weather */ = {
 			isa = PBXGroup;
 			children = (
+				FE244AC62889853D001930B1 /* WeatherButton.swift */,
 				FE244AB82889754F001930B1 /* weatherApp.swift */,
 				FE244ABA2889754F001930B1 /* ContentView.swift */,
 				FE244ABC28897550001930B1 /* Assets.xcassets */,
